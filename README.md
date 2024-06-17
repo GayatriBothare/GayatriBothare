@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GayatriBothare
+- 👀 I’m interested in data analysis, and data visualization.
+- 💼 Skills: SQL, Python, R, Power BI, Tableau, Excel
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/gayatri-bothare), [Email](mailto:gayatribothare@gmail.com)
