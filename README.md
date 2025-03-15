@@ -1,4 +1,4 @@
-![Gayatri Bothare - Data Analyst](https://github.com/GayatriBothare/Banner/blob/main/1719785291724.jpg)
+![Gayatri Bothare - Data Analyst](https://github.com/GayatriBothare/Banner/blob/main/Data%20Analyst%20Banner.png)
 
 # Gayatri Bothare | Data Analyst  
 
