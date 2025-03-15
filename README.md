@@ -12,17 +12,14 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 ---
 
 ##  What I Do  
-✔️ **Data Storytelling** – I turn numbers into meaningful narratives 📊  
-✔️ **Automation & Optimization** – Making workflows faster & smarter ⚙️  
-✔️ **Business Intelligence** – Power BI | Tableau | Excel 📈  
-✔️ **Data Wizardry** – SQL | Python | DAX 🧙‍♂️  
-
----
-
-## 📜 Certifications & Achievements  
-🏆 **Employability Skills Certification** – IAHV  
-🏆 **Healthcare Domain Training** – KPMG  
-🏆 **Cloud Computing Workshop** – Introduction to Cloud Computing  
+✔️ **Data Storytelling** – I turn numbers into meaningful narratives  
+✔️ **Automation & Optimization** – Making workflows faster & smarter   
+✔️ **Business Intelligence** – Power BI | Tableau | Excel 
+✔️ **Data Wizardry** – SQL | Python | DAX 
+✔️ **Problem-Solving:** Breaking down complex problems into actionable insights  
+✔️ **Analytical Thinking:** Finding patterns and trends in raw data  
+✔️ **Communication:** Presenting data-driven stories in an easy-to-understand way  
+✔️ **Collaboration:** Working effectively with teams and stakeholders 
 
 ---
 
