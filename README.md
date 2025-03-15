@@ -1,8 +1,4 @@
-![Gayatri Bothare - Data Analyst](https://github.com/GayatriBothare/Banner/blob/main/Data%20Analyst%20Banner.png)
-
-# Gayatri Bothare | Data Analyst  
-
----
+![Gayatri Bothare - Data Analyst](https://github.com/GayatriBothare/Banner/blob/main/Banner%20.png)
 
 ## About Me  
 Hey there! I'm **Gayatri**, a passionate **Data Analyst** who loves diving deep into datasets, uncovering patterns, and creating **visual stories with numbers**.  
