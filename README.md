@@ -25,6 +25,11 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
+## Do check my Certificates & Projects
+
+![Projects](https://github.com/GayatriBothare?tab=repositories)
+
+
 ##  Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gayatri-bothare)   [![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayatribothare@gmail.com)
