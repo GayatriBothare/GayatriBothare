@@ -1,6 +1,7 @@
 ![Gayatri Bothare - Data Analyst](https://github.com/GayatriBothare/Banner/blob/main/Banner%20.png)
 
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, Power BI, SQL, and Python, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+
 When I’m not analyzing trends or automating dashboards, you’ll probably find me exploring new tech, optimizing workflows, or **geeking out over the latest BI tools**! 
 
 💡 **My motto:** *"Data never lies, but it sure knows how to tell a great story!"*  
