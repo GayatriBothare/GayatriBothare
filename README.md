@@ -6,6 +6,7 @@ Hey there! I'm **Gayatri**, a passionate **Data Analyst** who loves diving deep 
 When I’m not analyzing trends or automating dashboards, you’ll probably find me exploring new tech, optimizing workflows, or **geeking out over the latest BI tools**! 🚀  
 
 💡 **My motto:** *"Data never lies, but it sure knows how to tell a great story!"*  
+![Profile views](https://komarev.com/ghpvc/?username=GayatriBothare&color=purple)
 
 ---
 
