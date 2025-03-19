@@ -27,7 +27,7 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 
 ## Do check my Certificates & Projects
 
-[Projects](https://github.com/GayatriBothare?tab=repositories)
+Projects - [Link](https://github.com/GayatriBothare?tab=repositories)
 
 
 ##  Let's Connect!
