@@ -13,7 +13,9 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 
 -  **Data Analyst**
 -  **Bachelor's Degree in BSc Computer Science**
+-  **PG Diploma in Data Science, Machine Learning & AI**
 -  **Currently working as Data Analyst Intern at POSCIG Technologies**
+-  **Do Explore my Projects - [Link](https://github.com/GayatriBothare?tab=repositories)**
 
 
 ##  Tools and Technologies  
@@ -23,11 +25,6 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-
-## Do check my Certificates & Projects
-
-Projects - [Link](https://github.com/GayatriBothare?tab=repositories)
 
 
 ##  Let's Connect!
