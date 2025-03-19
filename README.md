@@ -15,7 +15,7 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 -  **Bachelor's Degree in BSc Computer Science**
 -  **PG Diploma in Data Science, Machine Learning & AI**
 -  **Currently working as Data Analyst Intern at POSCIG Technologies**
--  **Do Explore my Projects - <a href="https://github.com/GayatriBothare?tab=repositories" style="text-decoration: none;">GitHub Repositories</a>**
+-  **Do Explore my Projects & Certificates - <a href="https://github.com/GayatriBothare?tab=repositories" style="text-decoration: none;">GitHub Repositories</a>** | **[Certificates]https://github.com/GayatriBothare/Certificates**
 
 
 ##  Tools and Technologies  
