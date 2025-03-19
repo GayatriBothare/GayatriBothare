@@ -8,6 +8,10 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GayatriBothare&color=blue)
 
+a href="https://github.com/GayatriBothare/Resume/raw/main/Gayatri_Bothare.pdf" download>
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe" alt="Download Resume">
+</a>
+
 
 ##  About Me
 
