@@ -11,7 +11,6 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 
 
 ##  About Me
----
 
 -  **Data Analyst**
 -  **Bachelor's Degree in BSc Computer Science**
@@ -19,7 +18,6 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 
 
 ##  Tools and Technologies  
----
 
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 - ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
@@ -29,7 +27,6 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 
 
 ##  Let's Connect!
----
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gayatri-bothare)   [![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayatribothare@gmail.com)
 
