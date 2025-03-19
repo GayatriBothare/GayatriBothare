@@ -18,6 +18,12 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 -  **Do Explore my Projects & Certificates - <a href="https://github.com/GayatriBothare?tab=repositories" style="text-decoration: none;">Projects</a>** | <a href="https://github.com/GayatriBothare/Certificates" style="text-decoration: none;">Certificates</a>
 
 
+##  Download My Resume  
+<a href="https://github.com/GayatriBothare/Resume/raw/main/Gayatri_Bothare.pdf" download>
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe" alt="Download Resume">
+</a>
+
+
 ##  Tools and Technologies  
 
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
