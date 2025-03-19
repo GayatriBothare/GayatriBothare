@@ -1,29 +1,36 @@
 ![Gayatri Bothare - Data Analyst](https://github.com/GayatriBothare/Banner/blob/main/Banner%20.png)
 
-## About Me  
-Hey there! I'm **Gayatri**, a passionate **Data Analyst** who loves diving deep into datasets, uncovering patterns, and creating **visual stories with numbers**.  
+<h1 align="center">Hi there, I'm Gayatri! 👋</h1>
 
-When I’m not analyzing trends or automating dashboards, you’ll probably find me exploring new tech, optimizing workflows, or **geeking out over the latest BI tools**! 🚀  
+Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, Power BI, SQL, and Python, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+When I’m not analyzing trends or automating dashboards, you’ll probably find me exploring new tech, optimizing workflows, or **geeking out over the latest BI tools**! 
 
 💡 **My motto:** *"Data never lies, but it sure knows how to tell a great story!"*  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=GayatriBothare&color=blue)
 
 
+##  About Me
 ---
 
-##  What I Do  
-✔️ **Data Storytelling** – I turn numbers into meaningful narratives  
-✔️ **Automation & Optimization** – Making workflows faster & smarter   
-✔️ **Business Intelligence** – Power BI | Tableau | Excel   
-✔️ **Data Wizardry** – SQL | Python | DAX     
-✔️ **Problem-Solving:** Breaking down complex problems into actionable insights     
-✔️ **Analytical Thinking:** Finding patterns and trends in raw data     
-✔️ **Communication:** Presenting data-driven stories in an easy-to-understand way  
-✔️ **Collaboration:** Working effectively with teams and stakeholders   
+-  **Data Analyst**
+-  **Bachelor's Degree in BSc Computer Science**
+-  **Currently working as Data Analyst Intern at POSCIG Technologies**
 
+
+##  Tools and Technologies  
 ---
 
-## 📬 Let’s Connect!  
-If you love **data-driven conversations** or want to collaborate, hit me up! 🚀  
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+- ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/gayatri-bothare) | 🔗 [GitHub](https://github.com/GayatriBothare) | 📧 [Email](mailto:gayatribothare@gmail.com)  
+
+##  Let's Connect!
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gayatri-bothare)   [![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayatribothare@gmail.com)
+
+Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
